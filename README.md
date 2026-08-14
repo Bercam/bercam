@@ -206,3 +206,6 @@ Expansão
 ├── JavaScript
 ├── Python
 └── Cloud
+
+<br/> <!-- ========================================== CONTATO ========================================== -->
+<div align="center"> <a href="mailto:pedrohlsb@gmail.com"> <img src="https://img.shields.io/badge/Email-pedrohlsb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://wa.me/5531984099009" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> <a href="https://www.linkedin.com/in/bercam/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Pedro_Ber%C3%A7am-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Bercam" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Bercam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br/> <hr /> <div align="center"> <sub>Construindo software com Java, boas práticas e aprendizado contínuo.</sub> </div> ```
