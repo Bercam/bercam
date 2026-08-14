@@ -178,7 +178,7 @@ OBJETIVOS
 ========================================== -->
 ## 🎯 Atualmente estudando
 
-\`\`\`text
+```text
 Backend
 ├── Java
 ├── Spring Boot
@@ -206,7 +206,7 @@ Expansão
 ├── JavaScript
 ├── Python
 └── Cloud
-\`\`\`
+```
 
 <br/>
 
