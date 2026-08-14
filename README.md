@@ -143,12 +143,12 @@ ESTATÍSTICAS DO GITHUB
     <tr>
       <td align="center">
         <a href="https://github.com/Bercam">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bercam&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&title_color=7f5af0&icon_color=2cb67d&text_color=94a1b2&bg_color=16161a" alt="Estatísticas do GitHub" />
+          <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Bercam&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&title_color=7f5af0&icon_color=2cb67d&text_color=94a1b2&bg_color=16161a" alt="Estatísticas do GitHub" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Bercam">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bercam&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&title_color=7f5af0&text_color=94a1b2&bg_color=16161a" alt="Linguagens mais utilizadas" />
+          <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bercam&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&title_color=7f5af0&text_color=94a1b2&bg_color=16161a" alt="Linguagens mais utilizadas" />
         </a>
       </td>
     </tr>
@@ -157,13 +157,12 @@ ESTATÍSTICAS DO GITHUB
   <br/>
 
   <a href="https://github.com/Bercam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bercam&theme=tokyonight&hide_border=true&ring=7f5af0&fire=2cb67d&currStreakNum=94a1b2&sideNums=94a1b2&currStreakLabel=7f5af0&sideLabels=7f5af0&dates=94a1b2&background=16161a" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Bercam&theme=tokyonight&hide_border=true&ring=7f5af0&fire=2cb67d&currStreakNum=94a1b2&sideNums=94a1b2&currStreakLabel=7f5af0&sideLabels=7f5af0&dates=94a1b2&background=16161a" alt="GitHub Streak" />
   </a>
 
 </div>
 
 <br/>
-
 <!-- ==========================================
 OBJETIVOS
 ========================================== -->
