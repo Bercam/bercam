@@ -42,6 +42,9 @@ Também estou expandindo meus conhecimentos em **Node.js, JavaScript, Python, Re
 
 <br/>
 
+<a href="https://bercam.github.io/CurriculumVitaeWebsite/"> Conheça mais sobre mim: Meu site</a>
+
+<br/>
 <!-- ==========================================
 STACK TECNOLÓGICA
 ========================================== -->
