@@ -41,8 +41,9 @@ Também estou expandindo meus conhecimentos em **Node.js, JavaScript, Python, Re
 - ⚡ Tenho facilidade para aprender novas tecnologias e estou sempre buscando evoluir tecnicamente
 
 <br/>
-
-<a href="https://bercam.github.io/CurriculumVitaeWebsite/"> Conheça mais sobre mim: Meu site</a>
+<div style="text-align: center;">
+    <a href="https://bercam.github.io/CurriculumVitaeWebsite/">Conheça mais sobre mim: Meu site</a>
+</div>
 
 <br/>
 <!-- ==========================================
