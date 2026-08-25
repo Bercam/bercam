@@ -17,6 +17,9 @@ HEADER / APRESENTAÇÃO
     <a href="https://wa.me/5531984099009" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
+    <a href="https://bercam.github.io/CurriculumVitaeWebsite/" target="_blank">
+  <img src="https://img.shields.io/badge/Meu%20Site-252525?style=for-the-badge" alt="Meu Site" />
+</a>
 </div>
 
 <br/>
